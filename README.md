@@ -11,8 +11,8 @@
 - `AppServer` / `AppClient`：服务提供方和调用方
 - `ServersHeartCheck`：客户端侧的心跳检查
 
-源码在 `服务发现/src`，包名 `com.mec.service_discover`。目录是当时的 Eclipse 工程。它依赖同系列的 `MyRmi.jar`（[mini-rmi](https://github.com/ailan-aoi/mini-rmi)）和 `Mycs.jar`（[mini-cs-framework](https://github.com/ailan-aoi/mini-cs-framework)）。
+源码在 `mini-service-discovery/src`，包名 `com.mec.service_discover`。目录是当时的 Eclipse 工程。它依赖同系列的 `MyRmi.jar`（[mini-rmi](https://github.com/ailan-aoi/mini-rmi)）和 `Mycs.jar`（[mini-cs-framework](https://github.com/ailan-aoi/mini-cs-framework)）。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。仓库曾用名 `easyServiceFind`，旧地址会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。仓库曾用名 `easyServiceFind`，旧地址会重定向到这里。
